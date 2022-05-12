@@ -1,0 +1,54 @@
+Darcula theme pack (UI + syntax) inspired by IntelliJ IDEA "Darcula"
+
+This package contains the schemes both for UI and for the Syntax.
+
+It is recommended to manually set "Annotation" lexer mapping style for Java lexer to "String3" in order to have a proper color
+for Java annotations (@Override, @Component, etc.)
+
+Recommended UI settings (user.json) to mimic IntelliJ IDEA interface as close as possible:
+
+{
+  "bracket_highlight" : true,
+  "font_name" : "DejaVu Sans Mono",
+  "font_size" : 10,
+  "gutter_fold_icons" : 0,
+  "mouse_wheel_zoom" : true,
+  "numbers_center" : false,
+  "ruler_mark_caret" : 3,
+  "ruler_numeration" : 0,
+  "ruler_show" : true,
+  "scrollbar_arrows" : "3,3",
+  "show_cur_line" : true,
+  "ui_menu_show" : true,
+  "ui_menu_themed" : true,
+  "ui_menu_themed_font_size" : 9,
+  "ui_tab_flat" : true,
+  "ui_tab_padding" : 15,
+  "ui_tab_show_x_size" : 13,
+  "ui_tab_size_y" : 30,
+  "ui_tab_variable_width" : true,
+  "ui_toolbar_show" : true,
+  "ui_toolbar_theme" : "LibreOffice-Colibre_24x24",
+  "ui_tree_theme" : "axialis-flat-pro-2017-codetree-icons",
+  "fold_style" : 2,
+  "staples_style" : 4,
+  "staples_props" : "-5,100,1,1",
+  "tab_spaces" : true,
+  "auto_close_brackets" : "([{\"'<",
+  "margin" : 120,
+  "micromap_bookmarks" : true,
+  "micromap_on_scrollbar" : true,
+  "unprinted_symbols_scale" : "15,30,80,22,",
+  "fold_tooltip_show" : true,
+  "micromap_show" : true,
+  "micromap_line_states" : false,
+  "bracket_symbols" : "()[]{}<>",
+  "ui_tab_button_layout" : ",+v",
+  "ui_tab_x_rounded" : true,
+  "ui_tab_show_x" : 2,
+  "ui_tab_fullcolor" : false,
+  "ui_tab_show_plus" : false,
+  "ui_title_path" : true,
+  "ui_tab_multiline" : false,
+  "minimap_tooltip_show" : true
+}

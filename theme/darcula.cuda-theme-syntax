@@ -243,7 +243,7 @@
     "Type" : 3,
     "Styles" : "",
     "CFont" : "#F9F5D7",
-    "CBack" : "#FFFFFF",
+    "CBack" : "#BBBBBB",
     "CBorder" : "#000000",
     "Border" : "0,0,0,0"
   },
@@ -298,8 +298,8 @@
   "Lex_LightBG1" : {
     "Type" : 1,
     "Styles" : "",
-    "CFont" : "#F83333",
-    "CBack" : "#272822",
+    "CFont" : "#FFFFFF",
+    "CBack" : "#A01212",
     "CBorder" : "",
     "Border" : "0,0,0,0"
   },
@@ -307,15 +307,15 @@
     "Type" : 1,
     "Styles" : "",
     "CFont" : "#000000",
-    "CBack" : "#CA4200",
+    "CBack" : "#505050",
     "CBorder" : "",
     "Border" : "0,0,0,0"
   },
   "Lex_LightBG3" : {
     "Type" : 1,
     "Styles" : "",
-    "CFont" : "#A6E22E",
-    "CBack" : "#272822",
+    "CFont" : "#000000",
+    "CBack" : "#0A4B0A",
     "CBorder" : "",
     "Border" : "0,0,0,0"
   },

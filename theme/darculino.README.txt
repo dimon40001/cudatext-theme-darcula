@@ -1,0 +1,32 @@
+Darculino Theme pack inspired by IntelliJ IDEA "Darcula"
+
+This package contains the schemes both for UI and for the Syntax.
+
+It is recommended to manually set "Annotation" lexer mapping style for Java to "String3" in order to have a proper color for Java annotations (@Override, @Component, etc.)
+
+Recommended UI settings (user.json) to mimic IntelliJ IDEA interface as close as possible:
+
+{
+  "bracket_highlight" : true,
+  "gutter_fold_icons" : 1,
+  "mouse_wheel_zoom" : true,
+  "numbers_center" : false,
+  "ruler_mark_caret" : 3,
+  "ruler_numeration" : 0,
+  "ruler_show" : true,
+  "scrollbar_arrows" : "3,3",
+  "show_cur_line" : true,
+  "ui_menu_show" : true,
+  "ui_menu_themed" : true,
+  "ui_menu_themed_font_size" : 9,
+  "ui_sidebar_theme" : "common_20x20",
+  "ui_tab_flat" : true,
+  "ui_tab_padding" : 15,
+  "ui_tab_show_x_size" : 13,
+  "ui_tab_size_y" : 30,
+  "ui_tab_variable_width" : true,
+  "ui_theme" : "darculino",
+  "ui_theme_syntax" : "darculino",
+  "ui_toolbar_show" : true,
+  "underline_color_size" : 4
+}

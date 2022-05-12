@@ -1,6 +1,3 @@
-// Darculino Syntax Theme inspired by IntelliJ
-// The Annotation lexer mapping style for Java should be set manually to "String3" to have yellow @Annotations 
-
 {
   "Lex_Id" : {
     "Type" : 1,

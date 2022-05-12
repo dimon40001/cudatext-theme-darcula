@@ -100,8 +100,8 @@
     "Styles" : "",
     "CFont" : "#A9B7C6",
     "CBack" : "",
-    "CBorder" : "#FF0000",
-    "Border" : "2,2,2,2"
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
   },
   "Lex_SymbolBad" : {
     "Type" : 1,
@@ -109,7 +109,7 @@
     "CFont" : "#F9F5D7",
     "CBack" : "",
     "CBorder" : "#FF0000",
-    "Border" : "0,0,0,0"
+    "Border" : "0,0,0,1"
   },
   "Lex_Comment" : {
     "Type" : 1,
@@ -355,38 +355,6 @@
     "Type" : 1,
     "Styles" : "",
     "CFont" : "#F9F5D7",
-    "CBack" : "",
-    "CBorder" : "",
-    "Border" : "0,0,0,0"
-  },
-  "Lex_TextBold" : {
-    "Type" : 1,
-    "Styles" : "b",
-    "CFont" : "#C0C0C0",
-    "CBack" : "",
-    "CBorder" : "",
-    "Border" : "0,0,0,0"
-  },
-  "Lex_TextItalic" : {
-    "Type" : 1,
-    "Styles" : "i",
-    "CFont" : "#C0C0C0",
-    "CBack" : "",
-    "CBorder" : "",
-    "Border" : "0,0,0,0"
-  },
-  "Lex_TextBoldItalic" : {
-    "Type" : 1,
-    "Styles" : "bi",
-    "CFont" : "#C0C0C0",
-    "CBack" : "",
-    "CBorder" : "",
-    "Border" : "0,0,0,0"
-  },
-  "Lex_TextCross" : {
-    "Type" : 1,
-    "Styles" : "s",
-    "CFont" : "#FB4934",
     "CBack" : "",
     "CBorder" : "",
     "Border" : "0,0,0,0"

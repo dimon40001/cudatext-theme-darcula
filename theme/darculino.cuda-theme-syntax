@@ -1,0 +1,397 @@
+// Darculino Syntax Theme inspired by IntelliJ
+// The Annotation lexer mapping style for Java should be set manually to "String3" to have yellow @Annotations 
+
+{
+  "Lex_Id" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#A9B7C6",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Id1" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#9876AA",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Id2" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#FFC66D",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Id3" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#CC7842",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Id4" : {
+    "Type" : 1,
+    "Styles" : "b",
+    "CFont" : "#FFC66D",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_IdKeyword" : {
+    "Type" : 1,
+    "Styles" : "b",
+    "CFont" : "#CC7842",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_IdVar" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#A9B7C6",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_IdBad" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#F9F5D7",
+    "CBack" : "",
+    "CBorder" : "#FF0000",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_String" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#6A8759",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_String2" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#9876AA",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_String3" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#FFFF00",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Symbol" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#E8BA36",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Symbol2" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#A9B7C6",
+    "CBack" : "",
+    "CBorder" : "#FF0000",
+    "Border" : "2,2,2,2"
+  },
+  "Lex_SymbolBad" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#F9F5D7",
+    "CBack" : "",
+    "CBorder" : "#FF0000",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Comment" : {
+    "Type" : 1,
+    "Styles" : "i",
+    "CFont" : "#707070",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Comment2" : {
+    "Type" : 1,
+    "Styles" : "i",
+    "CFont" : "#6A8759",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_CommentDoc" : {
+    "Type" : 1,
+    "Styles" : "i",
+    "CFont" : "#6A8759",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Number" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#7A9EC2",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Label" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#B67E60",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Color" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#A6E22E",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_IncludeBG1" : {
+    "Type" : 3,
+    "Styles" : "",
+    "CFont" : "#00FF00",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_IncludeBG2" : {
+    "Type" : 3,
+    "Styles" : "",
+    "CFont" : "#FFFF00",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_IncludeBG3" : {
+    "Type" : 3,
+    "Styles" : "",
+    "CFont" : "#FF00FF",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_IncludeBG4" : {
+    "Type" : 3,
+    "Styles" : "",
+    "CFont" : "#000080",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_SectionBG1" : {
+    "Type" : 2,
+    "Styles" : "",
+    "CFont" : "#C0C0C0",
+    "CBack" : "#494B41",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_SectionBG2" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#F92672",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_SectionBG3" : {
+    "Type" : 3,
+    "Styles" : "",
+    "CFont" : "#C0C0C0",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_SectionBG4" : {
+    "Type" : 3,
+    "Styles" : "",
+    "CFont" : "#C0C0C0",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_BracketBG" : {
+    "Type" : 1,
+    "Styles" : "b",
+    "CFont" : "#E8BA36",
+    "CBack" : "#3B514D",
+    "CBorder" : "#808080",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_CurBlockBG" : {
+    "Type" : 3,
+    "Styles" : "",
+    "CFont" : "#F9F5D7",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_SeparLine" : {
+    "Type" : 3,
+    "Styles" : "",
+    "CFont" : "#F9F5D7",
+    "CBack" : "#FFFFFF",
+    "CBorder" : "#000000",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TagBound" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#E8BF6A",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TagId" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#E8BF6A",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TagIdBad" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#F92672",
+    "CBack" : "",
+    "CBorder" : "#FF0000",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TagProp" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#BABABA",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TagPropBad" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#A6E22E",
+    "CBack" : "",
+    "CBorder" : "#FF0000",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TagInclude" : {
+    "Type" : 1,
+    "Styles" : "b",
+    "CFont" : "#FF0000",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_LightBG1" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#F83333",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_LightBG2" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#000000",
+    "CBack" : "#CA4200",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_LightBG3" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#A6E22E",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_LightBG4" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#83A598",
+    "CBack" : "#272822",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_LightBG5" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#83A598",
+    "CBack" : "#3A3D32",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Pale1" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#F9F5D7",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Pale2" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#F9F5D7",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_Pale3" : {
+    "Type" : 1,
+    "Styles" : "",
+    "CFont" : "#F9F5D7",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TextBold" : {
+    "Type" : 1,
+    "Styles" : "b",
+    "CFont" : "#C0C0C0",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TextItalic" : {
+    "Type" : 1,
+    "Styles" : "i",
+    "CFont" : "#C0C0C0",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TextBoldItalic" : {
+    "Type" : 1,
+    "Styles" : "bi",
+    "CFont" : "#C0C0C0",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  },
+  "Lex_TextCross" : {
+    "Type" : 1,
+    "Styles" : "s",
+    "CFont" : "#FB4934",
+    "CBack" : "",
+    "CBorder" : "",
+    "Border" : "0,0,0,0"
+  }
+}

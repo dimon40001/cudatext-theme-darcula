@@ -1,6 +1,6 @@
 [info]
-title=Darculino Theme (by Dmitry Fedorov)
-desc=Darculino theme inspired by IntelliJ Darcula
+title=Darcula Theme (ex-Darculino) by Dmitry Fedorov
+desc=Darcula theme inspired by IntelliJ Darcula
 type=cudatext-data
 subdir=themes
-homepage=https://github.com/dimon40001
+homepage=https://github.com/dimon40001/cudatext-theme-darcula
